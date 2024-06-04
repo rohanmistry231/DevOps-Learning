@@ -1,0 +1,14 @@
+version: '3.3'
+services:
+  jenkins:
+    image: jenkins/jenkins:lts
+    privileged: true
+    user: root
+    ports:
+      - '80:8080'
+      - '443:8443'
+      - '50000:50000'
+    container_name: jenkins
+    volumes:
+    - /home/jenkins/docker-jenkins/jenkins_data:/var/jenkins_home
+    - /var/run/docker.sock:/var/run/docker.sock

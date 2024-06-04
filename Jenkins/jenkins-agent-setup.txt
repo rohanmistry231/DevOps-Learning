@@ -1,0 +1,1 @@
+nohup java -jar agent.jar -jnlpUrl http://192.168.10.13/computer/ubuntu/jenkins-agent.jnlp -secret fc0de992eaa87aaa115547ad0c86371368e5fecb3adcfc9bb16d709fd3492d43 -workDir "/home/appserver/jenkins-workspace" &

@@ -5,7 +5,7 @@ Welcome to the DevSecOps Course Repository. This repository contains all the mat
 ## Table of Contents
 
 1. [DevSecOps](./DevSecOps/)
-2. [Organization & Projects](./Organization%20Projects/)
+2. [Organization & Projects](./Organization%20&%20Projects/)
 3. [Linux Fundamentals](./Linux%20Fundamentals/)
 4. [Docker](./Docker/)
 5. [Terraform](./Terraform/)

@@ -10,7 +10,7 @@ Welcome to the DevSecOps Course Repository. This repository contains all the mat
 4. [Docker](./Docker/)
 5. [Terraform](./Terraform/)
 6. [Jenkins](./Jenkins/)
-7. [Testing, Toolsand Principles](./Testing,%20Tooling%20and%Principles/)
+7. [Testing, Tooling and Principles](./Testing,%20Tooling%20and%Principles/)
 8. [YAML](./YAML/)
 
 ## Overview

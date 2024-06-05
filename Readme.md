@@ -4,14 +4,14 @@ Welcome to the DevSecOps Course Repository. This repository contains all the mat
 
 ## Table of Contents
 
-1. [DevSecOps](./DevSecOps/README.md)
-2. [Organization & Projects](./Organization%20Projects/README.md)
-3. [Linux Fundamentals](./Linux%20Fundamentals/README.md)
-4. [Docker](./Docker/README.md)
-5. [Terraform](./Terraform/README.md)
-6. [Jenkins](./Jenkins/README.md)
-7. [Testing, Tools, and Principles](./Testing,%20Tools%20Principles/README.md)
-8. [YAML](./YAML/README.md)
+1. [DevSecOps](./DevSecOps/)
+2. [Organization & Projects](./Organization%20Projects/)
+3. [Linux Fundamentals](./Linux%20Fundamentals/)
+4. [Docker](./Docker/)
+5. [Terraform](./Terraform/)
+6. [Jenkins](./Jenkins/)
+7. [Testing, Tools, and Principles](./Testing,%20Tools%20Principles/)
+8. [YAML](./YAML/)
 
 ## Overview
 
